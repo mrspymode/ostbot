@@ -1,0 +1,15 @@
+{
+  "name": "ost-bot",
+  "version": "0.0.1",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Spy",
+  "license": "ISC",
+  "dependencies": {
+    "config.json": "^0.0.4",
+    "discord.js": "^13.2.0"
+  }
+}
