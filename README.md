@@ -1,0 +1,2 @@
+# ostbot
+on set team
